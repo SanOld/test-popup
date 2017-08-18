@@ -290,7 +290,8 @@ var TestWidget = (function() {
                   top: 20px;\
                   width: 20px;\
                   \
-                  font-size: 14px;\
+                  font-size: 14px;\\n\
+                  font-weight: 100\
                 }";
 
       return style;
